@@ -467,7 +467,7 @@ ppt.addTitleSlide("Product Launch", "New Features Overview")
 ppt.addSlide()
 ppt.addTitle("Key Features")
 ppt.addBulletList([
-    "Lightning fast performance",
+    "Lightning-fast performance",
     "Intuitive user interface",
     "Enterprise-grade security",
     "24/7 customer support"

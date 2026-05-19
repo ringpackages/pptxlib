@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.0",
+	:version = "1.0.1",
 	:ringversion = "1.26",
 	:versions = 	[
 		[
-			:version = "1.0.0",
+			:version = "1.0.1",
 			:branch = "master"
 		]
 	],
@@ -34,7 +34,11 @@ aPackageInfo = [
 		"samples/UsingPPTXLib/demo_general.ring",
 		"samples/UsingPPTXLib/images/test1.png",
 		"samples/UsingPPTXLib/images/test2.jpg",
-		"samples/UsingPPTXLib/images/test3.bmp"
+		"samples/UsingPPTXLib/images/test3.bmp",
+		"samples/UsingPPTXLib/hello.ring",
+		"samples/UsingPPTXLib/quick.ring",
+		"samples/UsingPPTXLib/product.ring",
+		"samples/UsingPPTXLib/business.ring"
 	],
 	:windowsfiles = 	[
 
