@@ -380,6 +380,3 @@ ok
 ? "  10. demo10_business.pptx"
 ? "  11. demo11_quick.pptx"
 ? "  12. demo12_layout_4x3.pptx"
-? ""
-? "Note: For demo9, place test1.png, test2.jpg, and test3.bmp"
-? "      in the same folder as the demo script."
