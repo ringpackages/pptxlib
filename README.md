@@ -487,11 +487,3 @@ ppt.addBulletList(["Fast", "Simple", "Affordable"], 5.4, 2, 4, 2, [:fontSize = 1
 
 ppt.save("product_launch.pptx")
 ```
-
----
-
-## Technical Notes
-
-- **Format:** Office Open XML (ECMA-376)
-- **Coordinates:** Inches (converted to EMUs internally)
-- **Default Layout:** 16:9 widescreen (10" × 5.625")
