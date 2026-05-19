@@ -10,7 +10,7 @@ ppt.setAuthor("Sales Team")
 # Title slide with dark background
 ppt.addSlide()
 ppt.setBackground("1E2761")
-ppt.addTextBox("Q4 2024", 0.5, 2, 9, 0.8, [
+ppt.addTextBox("Q4 2025", 0.5, 2, 9, 0.8, [
     :fontSize = 48, :bold = true, :color = "FFFFFF", :align = "center"
 ])
 ppt.addTextBox("Business Review", 0.5, 3, 9, 0.5, [

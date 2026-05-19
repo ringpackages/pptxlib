@@ -264,7 +264,7 @@ ppt.setCompany("ABC Corporation")
 # Title slide
 ppt.addSlide()
 ppt.setBackground("1E2761")
-ppt.addTextBox("Q4 2024", 0.5, 1.5, 9, 0.8, [:fontSize = 48, :bold = true, :color = "FFFFFF", :align = "center"])
+ppt.addTextBox("Q4 2025", 0.5, 1.5, 9, 0.8, [:fontSize = 48, :bold = true, :color = "FFFFFF", :align = "center"])
 ppt.addTextBox("Business Review", 0.5, 2.4, 9, 0.6, [:fontSize = 32, :color = "CADCFC", :align = "center"])
 ppt.addTextBox("ABC Corporation", 0.5, 4.5, 9, 0.4, [:fontSize = 18, :color = "FFFFFF", :align = "center"])
 
