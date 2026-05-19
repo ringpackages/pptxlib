@@ -19,6 +19,33 @@ PPTXLib is a pure-Ring library for creating Microsoft PowerPoint (.pptx) files u
 - **Speaker Notes** - Add notes to slides
 - **No Dependencies** - Pure Ring implementation
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+  - [Simple Presentation](#simple-presentation)
+  - [Quick Presentation Function](#quick-presentation-function)
+- [API Reference](#api-reference)
+  - [PPTWriter Class](#pptwriter-class)
+  - [Document Properties](#document-properties)
+  - [Layout Settings](#layout-settings)
+  - [Slide Management](#slide-management)
+  - [Slide Background](#slide-background)
+  - [Text Elements](#text-elements)
+  - [Rich Text](#rich-text)
+  - [Lists](#lists)
+  - [Shapes](#shapes)
+  - [Images](#images)
+  - [Tables](#tables)
+  - [Speaker Notes](#speaker-notes)
+  - [Saving](#saving)
+- [Quick Functions](#quick-functions)
+- [Constants](#constants)
+- [Color Reference](#color-reference)
+- [Complete Examples](#complete-examples)
+
+---
+
 ## Installation
 
 	ringpm install pptxlib from ringpackages
