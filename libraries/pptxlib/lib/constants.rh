@@ -1,0 +1,40 @@
+/*
+    PPTXLib - PowerPoint Library for Ring Programming Language
+*/
+
+# ============================================================================
+# Constants
+# ============================================================================
+
+# Slide layouts
+PPT_LAYOUT_16x9     = "16x9"
+PPT_LAYOUT_16x10    = "16x10"
+PPT_LAYOUT_4x3      = "4x3"
+
+# Alignment
+PPT_ALIGN_LEFT      = "l"
+PPT_ALIGN_CENTER    = "ctr"
+PPT_ALIGN_RIGHT     = "r"
+PPT_ALIGN_JUSTIFY   = "just"
+
+# Vertical alignment
+PPT_VALIGN_TOP      = "t"
+PPT_VALIGN_MIDDLE   = "ctr"
+PPT_VALIGN_BOTTOM   = "b"
+
+# Shape types
+PPT_SHAPE_RECT          = "rect"
+PPT_SHAPE_ROUND_RECT    = "roundRect"
+PPT_SHAPE_ELLIPSE       = "ellipse"
+PPT_SHAPE_LINE          = "line"
+PPT_SHAPE_TRIANGLE      = "triangle"
+PPT_SHAPE_DIAMOND       = "diamond"
+PPT_SHAPE_ARROW         = "rightArrow"
+
+# Chart types
+PPT_CHART_BAR       = "bar"
+PPT_CHART_LINE      = "line"
+PPT_CHART_PIE       = "pie"
+
+# CRC32 lookup table for ZIP creation
+aPPTZipCRC32Table = []
