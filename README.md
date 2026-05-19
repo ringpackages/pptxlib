@@ -6,7 +6,7 @@ PPTXLib is a pure-Ring library for creating Microsoft PowerPoint (.pptx) files u
 
 ## Features
 
-- **Multiple Slides** - Create presentations with unlimited slides
+- **Multiple Slides** - Create presentations with many slides
 - **Text Boxes** - Formatted text with fonts, colors, alignment
 - **Rich Text** - Multiple formats within a single text box
 - **Shapes** - Rectangles, circles, ovals, rounded rectangles, lines
@@ -487,33 +487,6 @@ ppt.addBulletList(["Fast", "Simple", "Affordable"], 5.4, 2, 4, 2, [:fontSize = 1
 
 ppt.save("product_launch.pptx")
 ```
-
----
-
-## Performance Tips
-
-1. **Pre-calculate Length in Loops**
-```ring
-itemsLen = len(items)
-for i = 1 to itemsLen
-    # process
-next
-```
-
-2. **Reuse Slide Patterns** - Create similar slides with loops
-
-3. **Batch Image Loading** - Load images once, use multiple times
-
----
-
-## Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| File won't open | Check .pptx extension |
-| Text cut off | Increase text box height |
-| Images not showing | Verify file exists, check format |
-| Shapes overlapping | Adjust x, y coordinates |
 
 ---
 
